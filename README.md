@@ -1,3 +1,4 @@
+NOTWORKING 
 # twitch-viewer
 A viewer bot for twitch.tv
 
